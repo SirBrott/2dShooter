@@ -1,0 +1,3134 @@
+fileFormatVersion: 2
+guid: a5365d15d34f9234aad958a7cdd8c0fb
+timeCreated: 1443080218
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tank Base 01
+    21300002: Tank Base 02
+    21300004: Tank Base 03
+    21300006: Tank Base 04
+    21300008: Solder Gun Run 08
+    21300010: Solder Rocket 08
+    21300012: Solder Rocket 07
+    21300014: Solder Gun Run 07
+    21300016: Solder2 Gun Run 08
+    21300018: Solder2 Rocket 08
+    21300020: Solder2 Rocket 07
+    21300022: Solder2 Gun Run 07
+    21300024: Explosion A 01
+    21300026: Explosion A 02
+    21300028: Explosion A 03
+    21300030: Explosion A 04
+    21300032: Explosion A 05
+    21300034: Explosion A 06
+    21300036: Tank Base hit 01
+    21300038: Tank Base hit 02
+    21300040: Solder Gun Run 01
+    21300042: Solder Gun Run 02
+    21300044: Solder Gun Run 03
+    21300046: Solder Gun Run 04
+    21300048: Solder Gun Run 05
+    21300050: Solder Gun Run 06
+    21300052: Solder2 Gun Run 01
+    21300054: Solder2 Gun Run 02
+    21300056: Solder2 Gun Run 03
+    21300058: Solder2 Gun Run 04
+    21300060: Solder2 Gun Run 05
+    21300062: Solder2 Gun Run 06
+    21300064: Explosion B 01
+    21300066: Explosion B 02
+    21300068: Explosion B 03
+    21300070: Explosion B 04
+    21300072: Explosion B 05
+    21300074: Explosion B 06
+    21300076: Tank Turret UL
+    21300078: Tank Turret U
+    21300080: Tank Turret UR
+    21300082: Truck Large 01
+    21300084: Truck Large 02
+    21300086: Solder Rocket 01
+    21300088: Solder Rocket 02
+    21300090: Solder Rocket 03
+    21300092: Solder Rocket 04
+    21300094: Solder Rocket 05
+    21300096: Solder Rocket 06
+    21300098: Solder2 Rocket 01
+    21300100: Solder2 Rocket 02
+    21300102: Solder2 Rocket 03
+    21300104: Solder2 Rocket 04
+    21300106: Solder2 Rocket 05
+    21300108: Solder2 Rocket 06
+    21300110: Tank Turret L
+    21300112: Tank Turret R
+    21300114: Truck Large Hit 01
+    21300116: Truck Large Hit 02
+    21300118: Solder Die 05
+    21300120: Solder Die 04
+    21300122: Solder Die 03
+    21300124: Solder Die 02
+    21300126: Solder Die 01
+    21300128: Solder2 Die 05
+    21300130: Solder2 Die 04
+    21300132: Solder2 Die 03
+    21300134: Solder2 Die 02
+    21300136: Solder2 Die 01
+    21300138: Turret Base
+    21300140: M484VerticalShmupSet2_76
+    21300142: Tank Turret DL
+    21300144: Tank Turret D
+    21300146: Tank Turret DR
+    21300148: Truck Small 01
+    21300150: Truck Small 02
+    21300152: Solder Die 06
+    21300154: Solder Die 07
+    21300156: Solder Die 08
+    21300158: Solder Die 09
+    21300160: Solder2 Die 06
+    21300162: Solder2 Die 07
+    21300164: Solder2 Die 08
+    21300166: Solder2 Die 09
+    21300168: Solder Die 10
+    21300170: Solder2 Die 10
+    21300172: Tank Turret Hit UL
+    21300174: Tank Turret Hit U
+    21300176: Tank Turret Hit UR
+    21300178: Turret U L
+    21300180: Turret U
+    21300182: Turret U R
+    21300184: Tank Turret Hit L
+    21300186: Tank Turret Hit R
+    21300188: Truck Small Hit 01
+    21300190: Truck Small Hit 02
+    21300192: M484VerticalShmupSet2_103
+    21300194: Turret L
+    21300196: Turret R
+    21300198: Turret D L
+    21300200: Turret D
+    21300202: Turret D R
+    21300204: Tank Turret Hit DL
+    21300206: Tank Turret Hit D
+    21300208: Tank Turret Hit DR
+    21300210: Rocket 02
+    21300212: Turret U L Hit
+    21300214: Turret U Hit
+    21300216: Turret U R Hit
+    21300218: Rocket Turret 01
+    21300220: Rocket Turret 02
+    21300222: Rocket Turret 03
+    21300224: Rocket Turret 04
+    21300226: Rocket Turret 05
+    21300228: Rocket Turret 06
+    21300230: Turret L Hit
+    21300232: Turret R Hit
+    21300234: Rocket Base 01
+    21300236: Rocket Base 02
+    21300238: Rocket Base 03
+    21300240: Rocket Base 04
+    21300242: Turret D L Hit
+    21300244: Turret D Hit
+    21300246: Turret D R Hit
+    21300248: Bulding Small
+    21300250: Building Small Hit
+    21300252: Small Bullet 01
+    21300254: Small Bullet 02
+    21300256: Small Bullet 03
+    21300258: Small Bullet 04
+    21300260: Bulding Large
+    21300262: Building Large Hit
+    21300264: Rocket Turret Hit 01
+    21300266: Rocket Turret Hit 02
+    21300268: Rocket Turret Hit 03
+    21300270: Rocket Turret Hit 04
+    21300272: Rocket Turret Hit 05
+    21300274: Rocket Turret Hit 06
+    21300276: Large Bullet 01
+    21300278: Large Bullet 02
+    21300280: Large Bullet 03
+    21300282: Large Bullet 04
+    21300284: Tank Green
+    21300286: Tank Orange
+    21300288: Tank Red
+    21300290: Rocket Base Hit 01
+    21300292: Rocket Base Hit 02
+    21300294: M484VerticalShmupSet2_179
+    21300296: M484VerticalShmupSet2_180
+    21300298: Fighter
+    21300300: M484VerticalShmupSet2_182
+    21300302: M484VerticalShmupSet2_183
+    21300304: Shot Yellow
+    21300306: M484VerticalShmupSet2_185
+    21300308: Power Up Yellow 01
+    21300310: Power Up Yellow 02
+    21300312: Hidden Turret 01
+    21300314: Hidden Turret 02
+    21300316: Hidden Turret 03
+    21300318: Hidden Turret 04
+    21300320: Hidden Turret 05
+    21300322: Hidden Turret Hit
+    21300324: M484VerticalShmupSet2_196
+    21300326: M484VerticalShmupSet2_197
+    21300328: M484VerticalShmupSet2_198
+    21300330: M484VerticalShmupSet2_199
+    21300332: M484VerticalShmupSet2_200
+    21300334: Shot Red
+    21300336: M484VerticalShmupSet2_202
+    21300338: Power Up Red 01
+    21300340: Power Up 02
+    21300342: Shot Blue
+    21300344: M484VerticalShmupSet2_210
+    21300346: Power Up Blue 01
+    21300348: Power Up Blue 02
+    21300350: M484VerticalShmupSet2_213
+    21300352: M484VerticalShmupSet2_214
+    21300354: M484VerticalShmupSet2_215
+    21300356: M484VerticalShmupSet2_216
+    21300358: M484VerticalShmupSet2_217
+    21300360: Grass Road 01
+    21300362: Grass Road 02
+    21300364: Grass Road 03
+    21300366: Grass Road 09
+    21300368: Grass Road 10
+    21300370: Grass Road 11
+    21300372: Sand Road 01
+    21300374: Sand Road 02
+    21300376: Sand Road 03
+    21300378: Sand Road 09
+    21300380: Sand Road 10
+    21300382: Sand Road 11
+    21300384: Enemy 03
+    21300386: Ememy 02
+    21300388: Enemy 01
+    21300390: Flame Small 02
+    21300392: Flame Small 01
+    21300394: Grass Road 04
+    21300396: Grass
+    21300398: Grass Road 05
+    21300400: Grass Road 12
+    21300402: Grass Road 13
+    21300404: Sand Road 04
+    21300406: Sand
+    21300408: Sand Road 05
+    21300410: Sand Road 12
+    21300412: Sand Road 013
+    21300414: M484VerticalShmupSet2_251
+    21300416: M484VerticalShmupSet2_252
+    21300418: M484VerticalShmupSet2_253
+    21300420: M484VerticalShmupSet2_254
+    21300422: M484VerticalShmupSet2_255
+    21300424: Grass Road 06
+    21300426: Grass Road 07
+    21300428: Grass Road 08
+    21300430: Sand Road 06
+    21300432: Sand Road 07
+    21300434: Sand Road 08
+    21300436: Grass Tree 01
+    21300438: Grass Tree 02
+    21300440: Grass Rock
+    21300442: M484VerticalShmupSet2_265
+    21300444: Sand tree 01
+    21300446: Sand Tree 02
+    21300448: Sand Rock
+    21300450: M484VerticalShmupSet2_269
+    21300452: Sand Cactus 01
+    21300454: Sand Cactus 02
+    21300456: Sand Rock 02
+    21300458: Sand Rock 03
+    21300460: Grass Water 01
+    21300462: Grass Water 02
+    21300464: Grass Water 03
+    21300466: Grass Water 09
+    21300468: Grass Water 10
+    21300470: Grass Water 11
+    21300472: Sand Water 01
+    21300474: Sand Water 02
+    21300476: Sand Water 03
+    21300478: Sand Water 09
+    21300480: Sand Water 10
+    21300482: Sand Water 11
+    21300484: Bridge 01
+    21300486: M484VerticalShmupSet2_287
+    21300488: M484VerticalShmupSet2_288
+    21300490: Grass Water 04
+    21300492: M484VerticalShmupSet2_290
+    21300494: Grass Water 05
+    21300496: Grass Water 12
+    21300498: Grass Water 13
+    21300500: Sand Water 04
+    21300502: M484VerticalShmupSet2_295
+    21300504: Sand Water 05
+    21300506: Sand Water 12
+    21300508: Sand Water 13
+    21300510: M484VerticalShmupSet2_299
+    21300512: M484VerticalShmupSet2_300
+    21300514: M484VerticalShmupSet2_301
+    21300516: Grass Water 06
+    21300518: Grass Water 07
+    21300520: Grass Water 08
+    21300522: Sand Water 06
+    21300524: Sand Water 07
+    21300526: Sand Water 08
+    21300528: M484VerticalShmupSet2_308
+    21300530: Grass Water 14
+    21300532: Grass Water 15
+    21300534: Grass Water 16
+    21300536: Grass Water 23
+    21300538: Grass Water 24
+    21300540: Sand Water 14
+    21300542: Sand Water 15
+    21300544: Sand Water 16
+    21300546: Sand Water 22
+    21300548: Sand Water 23
+    21300550: M484VerticalShmupSet2_319
+    21300552: M484VerticalShmupSet2_320
+    21300554: M484VerticalShmupSet2_321
+    21300556: M484VerticalShmupSet2_322
+    21300558: Grass Water 17
+    21300560: M484VerticalShmupSet2_324
+    21300562: Grass Water 18
+    21300564: Grass Water 22
+    21300566: Grass Water 25
+    21300568: Sand Water 17
+    21300570: M484VerticalShmupSet2_329
+    21300572: Sand Water 18
+    21300574: Sand Water 24
+    21300576: Sand Water 25
+    21300578: Grass Water 19
+    21300580: Grass Water 20
+    21300582: Grass Water 21
+    21300584: Sand Water 19
+    21300586: Sand Water 20
+    21300588: Sand Water 21
+    21300590: M484VerticalShmupSet2_339
+    21300592: Flame 01
+    21300594: Flame 02
+    21300596: Enemy 03 Hit
+    21300598: Enemy 02 Hit
+    21300600: Enemy 01 Hit
+    21300602: Bridge 02
+    21300604: Bridge 03
+    21300606: Bridge 04
+    21300608: Bridge 05
+    21300610: Bridge 06
+    21300612: Fighter R 01
+    21300614: Fighter R 02
+    21300616: Fighter L 01
+    21300618: Fighter L 02
+    21300620: Fighter Hit
+    21300622: Fighter L 01 Hit
+    21300624: Fighter L 02 Hit
+    21300626: Fighter R 01 Hit
+    21300628: Fighter R 02 Hit
+    21300630: Rocket 01
+    21300632: Water
+    21300634: Explosion B 07
+    21300636: Explosion A 07
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tank Base 01
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 848
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Base 02
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 848
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Base 03
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 848
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Base 04
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 848
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Gun Run 08
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 850
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Rocket 08
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 850
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Rocket 07
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 850
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Gun Run 07
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 850
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Gun Run 08
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 850
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Rocket 08
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 850
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Rocket 07
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 850
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Gun Run 07
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 850
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion A 01
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion A 02
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion A 03
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion A 04
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion A 05
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion A 06
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Base hit 01
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 819
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Base hit 02
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 819
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Gun Run 01
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Gun Run 02
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Gun Run 03
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Gun Run 04
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Gun Run 05
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Gun Run 06
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Gun Run 01
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Gun Run 02
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Gun Run 03
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Gun Run 04
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Gun Run 05
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Gun Run 06
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion B 01
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion B 02
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion B 03
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion B 04
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion B 05
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion B 06
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret UL
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 784
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret U
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 784
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret UR
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 784
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Truck Large 01
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 785
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Truck Large 02
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 785
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Rocket 01
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Rocket 02
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Rocket 03
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Rocket 04
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Rocket 05
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Rocket 06
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Rocket 01
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Rocket 02
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Rocket 03
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Rocket 04
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Rocket 05
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Rocket 06
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret L
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 765
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret R
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 765
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Truck Large Hit 01
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 760
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Truck Large Hit 02
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 760
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Die 05
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 769
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Die 04
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 769
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Die 03
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 769
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Die 02
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 769
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Die 01
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 769
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Die 05
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 769
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Die 04
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 769
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Die 03
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 769
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Die 02
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 769
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Die 01
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 769
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret Base
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 757
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret DL
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 747
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret D
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 747
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret DR
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 747
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Truck Small 01
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 734
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Truck Small 02
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 734
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Die 06
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 745
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Die 07
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 745
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Die 08
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 745
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Die 09
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 745
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Die 06
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 745
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Die 07
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 745
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Die 08
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 745
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Die 09
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 745
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder Die 10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 745
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Solder2 Die 10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 745
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret Hit UL
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 719
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret Hit U
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 719
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret Hit UR
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 719
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret U L
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 724
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret U
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 724
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret U R
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 724
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret Hit L
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 701
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret Hit R
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 701
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Truck Small Hit 01
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 709
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Truck Small Hit 02
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 709
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret L
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 705
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret R
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 705
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret D L
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 687
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret D
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 687
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret D R
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 687
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret Hit DL
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 682
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret Hit D
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 682
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Turret Hit DR
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 682
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket 02
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 661
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret U L Hit
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 658
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret U Hit
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 658
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret U R Hit
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 658
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Turret 01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 637
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Turret 02
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 637
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Turret 03
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 637
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Turret 04
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 637
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Turret 05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 637
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret L Hit
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 639
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret R Hit
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 639
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Base 01
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 615
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Base 02
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 615
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Base 03
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 615
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Base 04
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 615
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret D L Hit
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 621
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret D Hit
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 621
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Turret D R Hit
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 621
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bulding Small
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 618
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building Small Hit
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 618
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Small Bullet 01
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Small Bullet 02
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Small Bullet 03
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Small Bullet 04
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bulding Large
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 580
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Building Large Hit
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 580
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Turret Hit 01
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 581
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Turret Hit 02
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 581
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Turret Hit 03
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 581
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Turret Hit 04
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 582
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Turret Hit 05
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 582
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Large Bullet 01
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 592
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Large Bullet 02
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 592
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Large Bullet 03
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 592
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Large Bullet 04
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 592
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Green
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 580
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Orange
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 580
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tank Red
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 580
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Base Hit 01
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 559
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket Base Hit 02
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 559
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 551
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot Yellow
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 560
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Power Up Yellow 01
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 560
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Power Up Yellow 02
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 560
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hidden Turret 01
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hidden Turret 02
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hidden Turret 03
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hidden Turret 04
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hidden Turret 05
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hidden Turret Hit
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot Red
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 535
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Power Up Red 01
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 535
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Power Up 02
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 535
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot Blue
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 510
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Power Up Blue 01
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 510
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Power Up Blue 02
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 510
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flame 01
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 492
+        width: 7
+        height: 11
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flame 02
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 487
+        width: 7
+        height: 16
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 03 Hit
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 484
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 02 Hit
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 485
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 01 Hit
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 485
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 02
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 03
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 09
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 01
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 02
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 03
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 09
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 03
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 447
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ememy 02
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 448
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 01
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 448
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flame Small 02
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 437
+        width: 5
+        height: 7
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flame Small 01
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 434
+        width: 5
+        height: 10
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 04
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 05
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 04
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 05
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 013
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 06
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 07
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Road 08
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 06
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 07
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Road 08
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Tree 01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Tree 02
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Rock
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand tree 01
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Tree 02
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Rock
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Cactus 01
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Cactus 02
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Rock 02
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Rock 03
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 02
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 03
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 09
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 01
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 02
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 03
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 09
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bridge 01
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 284
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 04
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 05
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 04
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 251
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 05
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 06
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 219
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 07
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 219
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 08
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 219
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 06
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 219
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 07
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 219
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 08
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 219
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 22
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass Water 21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sand Water 21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bridge 02
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 284
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bridge 03
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 284
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bridge 04
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 249
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bridge 05
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 249
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bridge 06
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 249
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter R 01
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 551
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter R 02
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 551
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter L 01
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 551
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter L 02
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 551
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter Hit
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 510
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter L 01 Hit
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 510
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter L 02 Hit
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 510
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter R 01 Hit
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 510
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fighter R 02 Hit
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 510
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocket 01
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 716
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion B 07
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 769
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion A 07
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 768
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

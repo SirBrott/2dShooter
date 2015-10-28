@@ -1,0 +1,43 @@
+/*
+	bullet hell type game
+	servive as long as you can
+	
+	TODO 
+	timer so you know how long you played
+	
+	dont restart level after player dies
+	
+	ramp up the number of enemy spawns
+	
+	change up the type of enemy spawns
+	
+	object pool
+		found a new object pool need to modify it
+		pull multiple types of objects
+		list based pool
+		list of pools each pool is a stuct
+	
+	scrolling background
+	
+	power ups
+		additve power ups
+		hp upgrade
+		
+		spred shot 
+		
+		missiles
+			1st upgrade adds a missle that finds the closist target, replaces every 5th shots
+			additaonal power ups decerr the dely by one shot
+			after 5 add a second missle with the same pattern
+	
+	sound
+		player shot
+		player die
+		
+		enemy shot
+		enemy die
+		
+		music
+	
+	
+*/

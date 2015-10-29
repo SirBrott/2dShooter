@@ -8,6 +8,7 @@ public class UI : MonoBehaviour {
 	public EnemyManager enemyManager;
 	public GameObject playerGO;
 	public Canvas menu;
+	public Canvas options;
 
 	public bool testPlayer = true;
 	// game states
@@ -24,11 +25,14 @@ public class UI : MonoBehaviour {
 		MenuOn,
 		Options,
 		GameRun,
-		GameExit
+		GameExit,
+		Return,
+		GameOver
 	}
 
 	void Awake () {
-
+		menu.gameObject.SetActive(true);
+		options.gameObject.SetActive(true);
 	}
 
 	void Start () {
@@ -39,77 +43,86 @@ public class UI : MonoBehaviour {
 		Time.timeScale = 0f;
 	}
 
+	// system states, first run brute force it make it ugly make it work
+
+	public void MenuOn() {
+		// when the game starts up and after a game over
+		uiScreen=UIScreen.MenuOn;
+		
+	}
+	
+	public void GameRun() {
+		// when the start button is pressed 
+		uiScreen = UIScreen.GameRun;
+	}
+	
+	public void OptionsMenu () {
+		// when the options menue button is pressed
+		uiScreen = UIScreen.Options;
+		
+	}
+	
+	public void GameOver () {
+		uiScreen = UIScreen.GameOver;
+		
+	}
+	
+	public void GameExit () {
+		// exits the game
+		uiScreen = UIScreen.GameExit;
+
+	}
+
+	// check UI states
 	void Update () {
 		if ( Input.GetButton("Pause") ){
 			MenuOn();
 		}
 
-
-		// check for change
 		if (uiScreen != oldUiScreen) {
 
 			if (uiScreen == UIScreen.GameRun){
 
-				print ("Game Run");
 				menu.enabled = false;
+				options.enabled = false;
 				Time.timeScale = 1f;
 
 			}
 
 			if (uiScreen == UIScreen.MenuOn) {
 
-				print ("Menu On");
 				menu.enabled = true;
+				options.enabled = false;
 				Time.timeScale = 0f;
 
 			}
 
 			if (uiScreen == UIScreen.Options) {
 
-
+				menu.enabled = false;
+				options.enabled = true;
 
 			}
 
+			if (uiScreen == UIScreen.Return) {
+				
+				menu.enabled = true;
+				options.enabled = false;
+				
+			}
+
 			if (uiScreen == UIScreen.GameExit){
-				print ("Game Exit");
+
 				Application.Quit();
 			}
 
 			oldUiScreen = uiScreen;
-
 		}
 
-	}
 
-	// system states, first run brute force it make it ugly make it work
-
-	public void MenuOn() {
-		// when the game starts up and after a game over
-		uiScreen=UIScreen.MenuOn;
 
 	}
 
-	public void GameRun() {
-		// when the start button is pressed 
-		uiScreen = UIScreen.GameRun;
-	}
 
-	public void OptionsMenu () {
-		// when the options menue button is pressed
-		print ("Option Menu");
-
-	}
-	
-	public void GameOver () {
-		// when the player dies
-		print ("Game Over");
-
-	}
-
-	public void GameExit () {
-		// exits the game
-		uiScreen = UIScreen.GameExit;
-		print ("Game Exit");
-	}
 
 }

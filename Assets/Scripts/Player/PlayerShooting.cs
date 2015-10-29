@@ -31,7 +31,7 @@ public class PlayerShooting : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		print (ObjectPool.instance.name);
+
 		ObjectPool.instance.AddToPool (shot01, shotNum);
 	
 	}

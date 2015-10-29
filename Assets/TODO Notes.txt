@@ -2,20 +2,29 @@
 	bullet hell type game
 	servive as long as you can
 	
+	current Bugs
+	Ships seem to request new bullets on spawn
+	
+	
 	TODO 
 	timer so you know how long you played
 	
-	dont restart level after player dies
+	dont reload level after player dies, reset level
 	
 	ramp up the number of enemy spawns
 	
 	change up the type of enemy spawns
-	
-	object pool
-		found a new object pool need to modify it
-		pull multiple types of objects
-		list based pool
-		list of pools each pool is a stuct
+		ship1
+		ship2
+		ship3
+		
+		tank
+		rocket tank
+		
+		turret
+		
+		truck - solders
+		truck - rocket solders 
 	
 	scrolling background
 	

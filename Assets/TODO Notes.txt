@@ -3,28 +3,41 @@
 	servive as long as you can
 	
 	current Bugs
-	Ships seem to request new bullets on spawn
 	
 	
 	TODO 
+	
+	systems
+	interface fuctions for weapons, health, enemy
+		
+	turn game into twin stick shooter, flood the level with enemys
+	
 	timer so you know how long you played
 	
-	dont reload level after player dies, reset level
+	dont reload level after player dies, reset level or figure out presitent data
 	
-	ramp up the number of enemy spawns
-	
-	change up the type of enemy spawns
-		ship1
-		ship2
+	Wave system
+		number of ships per wave
+		each wave incresses the number of enemys
+		every 5 waves add a new enemy
+		40 waves total
+		
+		looping background with set spawn points for ground stuff
+		random set peaces for the gound elements
+		
+		sky enemy
+		ship1 fast ship
+		ship2 
 		ship3
 		
-		tank
-		rocket tank
-		
-		turret
-		
+		ground moveing enemys
+		tank  
+		rocket tank 
 		truck - solders
 		truck - rocket solders 
+		
+		ground static enemys
+		turret
 	
 	scrolling background
 	

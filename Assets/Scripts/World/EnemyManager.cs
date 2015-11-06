@@ -10,6 +10,8 @@ public class EnemyManager : MonoBehaviour
 
 	public GameObject[] enemyShipGO;
 	public int enemyPoolSize = 10;
+	public GameObject bullet;
+	public int numBullets = 10;
 
 	//public Collider2D spawnArea;
 	public bool spawnShip = false;
@@ -35,6 +37,8 @@ public class EnemyManager : MonoBehaviour
 		for (int i = 0; i < enemyShipGO.Length; i++) {
 			ObjectPool.instance.AddToPool (enemyShipGO [i], enemyPoolSize);
 		}
+
+		ObjectPool.instance.AddToPool (bullet, numBullets);
 		
 	}
 	

@@ -5,7 +5,6 @@ public class EnemyShoot : MonoBehaviour
 {
 
 	public GameObject bullet;
-	public int numBullets = 10;
 	public GameObject target;
 	public float shotIntervul = 1f;
 	public bool isShootPlayer = false;
@@ -18,7 +17,7 @@ public class EnemyShoot : MonoBehaviour
 	{
 		myTransform = transform;
 		target = GameObject.Find ("Player"); 
-		ObjectPool.instance.AddToPool (bullet, numBullets);
+
 	}
 
 	void OnEnable ()

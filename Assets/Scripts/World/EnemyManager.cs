@@ -141,7 +141,7 @@ public class EnemyManager : MonoBehaviour
 			break;
 
 		case 12:
-			list = new int[] { 5, 6, 7, 9, 10, 11, 13, 14, 15};
+			list = new int[] { 5, 6, 7, 9, 10, 11, 13, 14 };
 			break;
 
 		case 13:

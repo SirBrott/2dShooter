@@ -5,8 +5,14 @@ using System.Collections.Generic;
 public class ObjectPool : MonoBehaviour
 {
 	
-	// refrace to this script
+	/// <summary>
+	/// Gobal instance refrance.
+	/// </summary>
 	public static ObjectPool instance;
+
+	/// <summary>
+	/// The parent the Game Object is set under in the Inspector.
+	/// </summary>
 	public Transform parent;
 	
 	List<GameObject> pooledObjects;	
@@ -20,8 +26,12 @@ public class ObjectPool : MonoBehaviour
 		instance = this;
 				
 	}
-	
-	// let the managers deal with adding objects to the pool
+
+	/// <summary>
+	/// Adds a Game Object to pool.
+	/// </summary>
+	/// <param name="toPool">Game Object to add to Pool.</param>
+	/// <param name="numPool">Number of Game Objects to add.</param>
 	public void AddToPool (GameObject toPool, int numPool = 1)
 	{
 		Debug.Log ("toPool= " + toPool.name + " numPool " + numPool);
@@ -35,7 +45,12 @@ public class ObjectPool : MonoBehaviour
 		}
 		
 	}
-	
+
+	/// <summary>
+	/// Gets a deactivated Game Object from the pool.
+	/// </summary>
+	/// <returns>Deactivated Game Object if avalable otherwise returns NULL </returns>
+	/// <param name="objToRef">Object For reference.</param>
 	public GameObject GetPool (GameObject objToRef)
 	{
 		//print ("get pool");
